@@ -1,0 +1,11 @@
+.in{
+    display: inline-block;
+
+}
+@media screen and (max-width:768px){
+    .in{
+      height: 700px;
+      width: 400px;
+      display: block;
+    }
+}
